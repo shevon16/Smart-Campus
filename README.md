@@ -28,7 +28,7 @@ A RESTful API built using **Java + JAX-RS (Jersey)** with an embedded **Grizzly 
 ## ▶️ How to Run
 
 ### 1. Clone the repository
-git clone https://github.com/your-username/smart-campus-api.git  
+git clone https://github.com/shevon16/Smart-Campus/tree/main/smart-campus-api
 cd smart-campus-api  
 
 ### 2. Build the project
